@@ -1,0 +1,18 @@
+-----------------------------
+Employee ID: ID001 
+Name: John Doe 
+Department: Software Engineering
+Weekly Salary: $750.0
+Tax Band: Lower rate tax payer
+-----------------------------
+Employee ID: ID002 
+Name: Jane Smith 
+Department: Marketing
+Weekly Salary: $1125.0
+Tax Band: Lower rate tax payer
+-----------------------------
+Employee ID: ID003 
+Name: Alice Johnson 
+Department: Software Engineering
+Weekly Salary: $1200.0
+Tax Band: Lower rate tax payer
